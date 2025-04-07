@@ -103,9 +103,9 @@
   </tr>
   <tr>
     <td>
-      <h3><a href="https://github.com/AsobaCloud/ona-rag">RAG System</a></h3>
-      <p>Knowledge base construction and LLM fine-tuning for policy and energy analysis</p>
-      <p><strong>Tech:</strong> AWS Glue, S3, Vector Databases, LLMs</p>
+      <h3><a href="https://github.com/AsobaCloud/dispatch">Electricity Dispatch Algorith</a></h3>
+      <p>Algorithm used for optimized electricity scheduling for a mini-grid system</p>
+      <p><strong>Tech:</strong> AWS Lambda, S3, Python</p>
     </td>
     <td>
       <h3><a href="https://github.com/AsobaCloud/sdk">Ona SDK</a></h3>
