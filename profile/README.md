@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/github/stars/AsobaCloud?style=for-the-badge&color=green" alt="Asoba GitHub Stars"/>
   </a>
   <a href="https://github.com/orgs/AsobaCloud/repositories">
-    <img src="https://img.shields.io/github/repositories/AsobaCloud?style=for-the-badge&color=blue" alt="Asoba Repositories"/>
+    <img src="https://img.shields.io/badge/Repositories-View%20All-blue?style=for-the-badge" alt="Asoba Repositories"/>
   </a>
   <a href="https://asoba.co">
     <img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fasoba.co&style=for-the-badge">
@@ -61,7 +61,7 @@
     </td>
     <td align="center" width="96">
       <a href="#asoba-tech" >
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width="48" height="48" alt="AWS" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="48" height="48" alt="AWS" />
       </a>
       <br>AWS
     </td>
@@ -79,7 +79,7 @@
     </td>
     <td align="center" width="96">
       <a href="#asoba-tech" >
-        <img src="https://upload.wikimedia.org/wikipedia/commons/2/24/AWS_DynamoDB.svg" width="48" height="48" alt="DynamoDB" />
+        <img src="https://symbols.getvecta.com/stencil_25/5_dynamodb.1a1344e5be.svg" width="48" height="48" alt="DynamoDB" />
       </a>
       <br>DynamoDB
     </td>
