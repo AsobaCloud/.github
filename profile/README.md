@@ -103,7 +103,7 @@
   </tr>
   <tr>
     <td>
-      <h3><a href="https://github.com/AsobaCloud/dispatch">Electricity Dispatch Algorith</a></h3>
+      <h3><a href="https://github.com/AsobaCloud/dispatch">Electricity Dispatch Algorithm</a></h3>
       <p>Algorithm used for optimized electricity scheduling for a mini-grid system</p>
       <p><strong>Tech:</strong> AWS Lambda, S3, Python</p>
     </td>
