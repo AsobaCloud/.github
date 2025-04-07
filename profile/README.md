@@ -1,23 +1,23 @@
-<h1 align="left" id="asoba-title">:sunny: Hello there! We're Asoba Cloud</h1>
-<h3 align="left">Pioneering AI Solutions for Clean Energy and Policy Analysis</h3>
+<h1 align="left" id="asoba-title">:sunny: Hello there! We're Asoba</h1>
+<h3 align="left">Pioneering Solutions for Clean Energy Trading and Policy Development</h3>
 
 <p align="left">
   <a href="https://github.com/AsobaCloud">
-    <img src="https://komarev.com/ghpvc/?username=asobacloud" alt="page views" />
+    <img src="https://img.shields.io/github/stars/AsobaCloud?style=for-the-badge&color=green" alt="Asoba GitHub Stars"/>
   </a>
-  <a href="https://asobacloud.com">
-    <img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fasobacloud.com">
+  <a href="https://github.com/orgs/AsobaCloud/repositories">
+    <img src="https://img.shields.io/github/repositories/AsobaCloud?style=for-the-badge&color=blue" alt="Asoba Repositories"/>
   </a>
-  <a href="https://www.linkedin.com/company/asoba-cloud">
-    <img alt="LinkedIn followers" src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin">
+  <a href="https://asoba.co">
+    <img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fasoba.co&style=for-the-badge">
   </a>
-  <a href="https://github.com/AsobaCloud?tab=followers">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/AsobaCloud?style=flat&logo=github">
+  <a href="https://www.linkedin.com/company/asoba-co/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
   </a>
 </p>
 
-<a href="#asoba-title">
-  <img src="https://github-readme-stats.vercel.app/api?username=asobacloud&show_icons=true&count_private=true&theme=vue" alt="Asoba Cloud" align="right" />
+<a href="https://github.com/AsobaCloud/sdk">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AsobaCloud&repo=sdk&theme=vue" alt="Asoba SDK" align="right" />
 </a>
 
 - :office: &nbsp;We're building **energy forecasting and policy analysis tools**
@@ -108,9 +108,10 @@
       <p><strong>Tech:</strong> AWS Glue, S3, Vector Databases, LLMs</p>
     </td>
     <td>
-      <h3><a href="https://github.com/AsobaCloud/ona-sdk">Ona SDK</a></h3>
+      <h3><a href="https://github.com/AsobaCloud/sdk">Ona SDK</a></h3>
       <p>Client libraries for seamless integration with our energy forecasting API</p>
-      <p><strong>Tech:</strong> JavaScript, Python</p>
+      <p><strong>Features:</strong> Authentication, Data Upload, Forecast Retrieval</p>
+      <p><strong>Languages:</strong> JavaScript, Python</p>
     </td>
   </tr>
 </table>
@@ -134,4 +135,4 @@ At Asoba, we're building AI solutions that:
 
 <!-- links -->
 [website]: https://asoba.co "Asoba Website"
-[linkedin]: [https://www.linkedin.com/company/asoba-cloud](https://www.linkedin.com/company/asoba-co/) "Asoba LinkedIn"
+[linkedin]: https://www.linkedin.com/company/asoba-co/ "Asoba LinkedIn"
