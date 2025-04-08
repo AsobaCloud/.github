@@ -91,7 +91,7 @@
 <table>
   <tr>
     <td>
-      <h3><a href="https://github.com/AsobaCloud/ona-api">Ona API</a></h3>
+      <h3><a href="https://github.com/AsobaCloud/api">Ona API</a></h3>
       <p>Core energy forecasting API with data interpolation, ML modeling, and regional deployments</p>
       <p><strong>Tech:</strong> Python, AWS Lambda, SageMaker, DynamoDB</p>
     </td>
