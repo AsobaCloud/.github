@@ -28,7 +28,9 @@
 - :mailbox: &nbsp;Reach out to us on our **[website](https://asoba.co/contact-us)**
 
 <br>
-![bg_hero_preview](https://github.com/user-attachments/assets/fd1c5df3-af1c-4881-9c49-4070ed0d3020)
+<a href="https://app.asoba.co">
+<img src="https://github.com/user-attachments/assets/fd1c5df3-af1c-4881-9c49-4070ed0d3020">
+</a>
 
 
 
