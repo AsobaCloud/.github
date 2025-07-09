@@ -1,4 +1,4 @@
-<h1 align="left" id="asoba-title">:sunny: Hello there! We're Asoba</h1>
+<h1 align="left" id="asoba-title">:sunny: We're Asoba</h1>
 <h3 align="left">Pioneering Solutions for Clean Energy Trading and Policy Development</h3>
 
 <p align="left">
@@ -122,13 +122,70 @@
   </tr>
 </table>
 
-## :earth_africa: Regional Deployment
+## 🚀 Getting Started
 
-We prioritize data sovereignty and multi-region deployment, with primary operations in:
+### Prerequisites
+- Node.js 16+ and Python 3.9+
+- AWS CLI configured with appropriate credentials
+- GitHub access to AsobaCloud organization
+- Auth0 and Stripe accounts (for full functionality)
 
-- 🇿🇦 Africa (Cape Town) - af-south-1
-- 🇪🇺 Europe (Milan) - eu-south-1
-- 🇺🇸 North America (N. Virginia) - us-east-1
+### Quick Start
+
+1. **Clone the repositories**
+```bash
+git clone https://github.com/AsobaCloud/api.git
+git clone https://github.com/AsobaCloud/ona-front-end.git
+```
+
+2. **Set up the backend**
+```bash
+cd api
+python -m venv venv
+source venv/bin/activate  # On Windows: venv\Scripts\activate
+pip install -r requirements.txt
+cp .env.example .env
+# Edit .env with your configuration
+python app.py
+```
+
+3. **Set up the frontend**
+```bash
+cd ona-front-end
+npm install
+cp .env.example .env
+# Edit .env with your API endpoint and Auth0 config
+npm run dev
+```
+
+4. **Access the application**
+- Frontend: http://localhost:3000
+- API: http://localhost:8000
+- API Docs: http://localhost:8000/docs
+
+## 📋 Development Workflow
+
+### Automated Test Criteria System
+
+Every new issue created in our repositories automatically receives comprehensive test criteria to ensure quality and completion verification. This system:
+
+- ✅ Applies within 60 seconds of issue creation
+- ✅ Detects issue type (API, Frontend, ML, Infrastructure, Security)
+- ✅ Enforces CLAUDE.md compliance principles
+- ✅ Requires objective completion verification
+- ✅ Includes cross-region deployment validation
+
+### Issue Management
+
+All development work is tracked through GitHub Issues and organized in the [Ona Power Tools Platform Project Board](https://github.com/orgs/AsobaCloud/projects/2).
+
+### Development Standards
+
+**Code Quality:**
+- All code must pass linting (ESLint for JS/TS, Black/Flake8 for Python)
+- Minimum 80% test coverage for new features
+- Peer review required for all PRs
+- Documentation required for public APIs
 
 ## :seedling: Our Impact
 
