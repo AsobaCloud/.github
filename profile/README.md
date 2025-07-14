@@ -109,9 +109,9 @@
   </tr>
   <tr>
     <td>
-      <h3><a href="https://github.com/AsobaCloud/dispatch">Electricity Dispatch Algorithm</a></h3>
-      <p>Algorithm used for optimized electricity scheduling for a mini-grid system</p>
-      <p><strong>Tech:</strong> AWS Lambda, S3, Python</p>
+      <h3><a href="https://github.com/AsobaCloud/asobacode-cli">AsobaCode CLI</a></h3>
+      <p>MCP-based Agentic AI development system for building Infra-as-Code, using custom-tuned version of Mistral 7B v0.3</p>
+      <p><strong>Tech:</strong> AWS Lambda, S3, Python, Shell, Terraform</p>
     </td>
     <td>
       <h3><a href="https://github.com/AsobaCloud/sdk">Ona SDK</a></h3>
