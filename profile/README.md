@@ -29,7 +29,7 @@
 
 <br>
 <a href="https://app.asoba.co">
-<img src="[https://github.com/user-attachments/assets/eea6b5b0-d875-4f37-a5b5-d270402ec656](https://asoba.co/ona.png)">
+<img src="https://asoba.co/ona.png">
 </a>
 
 <h2 align="left">🚀 Our Product Suite</h2>
