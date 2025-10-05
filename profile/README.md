@@ -1,5 +1,5 @@
-<h1 align="left" id="asoba-title">⚡ We're Asoba</h1>
-<h3 align="left">AI-Powered Solutions for the Distributed Energy Transition</h3>
+<h1 align="left" id="asoba-title">🌍 We're Asoba</h1>
+<h3 align="left">AI Infrastructure for Africa's Energy Independence</h3>
 
 <p align="left">
   <a href="https://github.com/AsobaCloud">
@@ -20,74 +20,90 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=AsobaCloud&repo=sdk&theme=vue" alt="Asoba SDK" align="right" />
 </a>
 
-- 🤖 &nbsp;Building **AI assistants** that simplify distributed energy management
-- ⚡ &nbsp;Developing **Ona API** - automated energy data management & forecasting
-- 📊 &nbsp;Creating **Distributed Energy Trading Platform** for virtual power plants
-- 🧠 &nbsp;Pioneering **RAG-enhanced AI** for energy policy and market insights
-- 🌍 &nbsp;Supporting **multi-region deployment** with data sovereignty
-- 📧 &nbsp;Reach out to us on our **[website](https://asoba.co/contact-us)**
+- 🌍 &nbsp;Building **distributed AI infrastructure** for Africa's energy independence
+- ☀️ &nbsp;Developing **Ona Energy Management Platform** for solar asset optimization
+- 🤖 &nbsp;Creating **Energy Analyst LLM** for municipal policy intelligence
+- 🔌 &nbsp;Deploying **Ona Edge & Agrivoltaics** - solar-powered AI compute nodes
+- 🛡️ &nbsp;Ensuring **data sovereignty** with on-premise African infrastructure
+- 📧 &nbsp;Schedule a meeting: **[asoba.co/contact-us](https://calendar.google.com/calendar/appointments/schedules/AcZssZ3-n_SUGacXWO0GDVkR9J1LCNwoUEUPH_kTw-_yeDaVuFaMysg0rIiZLUy9cKeZlcziEYgFG8Kx?gv=true)**
 
 <br>
 <a href="https://app.asoba.co">
 <img src="https://github.com/user-attachments/assets/eea6b5b0-d875-4f37-a5b5-d270402ec656">
 </a>
 
-<h2 align="left">🚀 Our Products</h2>
+<h2 align="left">🚀 Our Product Suite</h2>
+
+> Ensuring 100% electricity availability across Africa through distributed AI
 
 <table>
   <tr>
-    <td width="50%">
-      <h3>🤖 Ona On-Demand</h3>
-      <p><strong>AI Assistant for Distributed Energy</strong></p>
+    <td width="33%">
+      <h3>☀️ Ona Energy Management</h3>
+      <p><strong>Intelligent O&M for Solar Assets</strong></p>
       <ul>
-        <li>Policy analysis and compliance guidance</li>
-        <li>Market insights and trading strategies</li>
-        <li>Technical support for energy systems</li>
-        <li>RAG-enhanced responses with latest regulations</li>
+        <li>Real-time SCADA integration</li>
+        <li>Predictive maintenance AI</li>
+        <li>Weather-adaptive optimization</li>
+        <li>1MW to 500MW+ support</li>
       </ul>
-      <p><a href="https://docs.asoba.co/ona-on-demand">Learn more →</a></p>
+      <p><em>For: Solar farm operators, IPPs, asset managers</em></p>
     </td>
-    <td width="50%">
-      <h3>🔌 Ona API</h3>
-      <p><strong>Automated Energy Data Management</strong></p>
+    <td width="33%">
+      <h3>🏛️ Energy Analyst LLM</h3>
+      <p><strong>Municipal Policy Oracle</strong></p>
       <ul>
-        <li>Real-time data ingestion and processing</li>
-        <li>Advanced forecasting with ML models</li>
-        <li>Multi-region deployment options</li>
-        <li>RESTful API with comprehensive SDK</li>
+        <li>SSEG regulation database</li>
+        <li>Automated compliance checking</li>
+        <li>Citizen query interface</li>
+        <li>Application processing</li>
       </ul>
-      <p><a href="https://docs.asoba.co/ona-api">Learn more →</a></p>
+      <p><em>For: Municipalities, city councils, government</em></p>
     </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>💹 Distributed Energy Trading Platform</h3>
-      <p><strong>Next-Generation Energy Marketplace</strong></p>
+    <td width="33%">
+      <h3>🖥️ Ona Edge & Agrivoltaics</h3>
+      <p><strong>Edge AI Processing Network</strong></p>
       <ul>
-        <li>Virtual power plant aggregation</li>
-        <li>Real-time price discovery</li>
-        <li>Smart contract automation</li>
-        <li>Regulatory compliance built-in</li>
+        <li>Solar-powered GPU clusters</li>
+        <li>99.9% uptime guarantee</li>
+        <li>Low-latency processing</li>
+        <li>Sovereign data handling</li>
       </ul>
-      <p><em>Coming Soon</em></p>
-    </td>
-    <td width="50%">
-      <h3>🛠️ AsobaCode</h3>
-      <p><strong>AI-Powered Infrastructure Development</strong></p>
-      <ul>
-        <li>MCP-based agentic AI system</li>
-        <li>Infrastructure-as-Code generation</li>
-        <li>Custom-tuned Mistral 7B model</li>
-        <li>Terraform and AWS automation</li>
-      </ul>
-      <p><a href="https://github.com/AsobaCloud/asobacode-cli">View on GitHub →</a></p>
+      <p><em>For: Rural electrification, enterprises, IPPs</em></p>
     </td>
   </tr>
 </table>
 
-<h2 align="left" id="asoba-tech">💻 Our Tech Stack</h2>
+<h2 align="left">💡 How We Power Energy Independence</h2>
 
-> Technologies powering the distributed energy transition
+<table>
+  <tr>
+    <td width="50%">
+      <h3>🔧 Transform Challenges</h3>
+      <ul>
+        <li>❌ Unreliable grid infrastructure<br>
+            ✅ Distributed resilience</li>
+        <li>❌ Municipal capacity gaps<br>
+            ✅ AI-assisted efficiency</li>
+        <li>❌ Foreign technology dependence<br>
+            ✅ Local digital sovereignty</li>
+      </ul>
+    </td>
+    <td width="50%">
+      <h3>📊 Deliver Results</h3>
+      <ul>
+        <li>Predict equipment failures before they occur</li>
+        <li>Maximize energy output with real-time optimization</li>
+        <li>Process SSEG applications automatically</li>
+        <li>Keep AI workloads on African soil</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+<h2 align="left" id="asoba-tech">💻 Tech Stack</h2>
+
+> Technologies powering Africa's energy future
 
 <table>
   <tr>
@@ -129,9 +145,9 @@
     </td>
     <td align="center"  width="96">
       <a href="#asoba-tech">
-        <img src="https://cdn.worldvectorlogo.com/logos/aws-lambda-1.svg" width="48" height="48" alt="AWS Lambda" />
+        <img src="https://cdn.worldvectorlogo.com/logos/nvidia.svg" width="48" height="48" alt="NVIDIA" />
       </a>
-      <br>Lambda
+      <br>NVIDIA
     </td>
     <td align="center" width="96">
       <a href="#asoba-tech" >
@@ -148,12 +164,12 @@
   <tr>
     <td>
       <h3><a href="https://github.com/AsobaCloud/api">Ona API</a></h3>
-      <p>Core energy forecasting API with ML modeling and multi-region support</p>
+      <p>Core energy forecasting and data management API with ML modeling</p>
       <p><strong>Tech:</strong> Python, AWS Lambda, SageMaker, DynamoDB</p>
     </td>
     <td>
-      <h3><a href="https://github.com/AsobaCloud/ona-front-end">Ona On-Demand Frontend</a></h3>
-      <p>React-based interface for our AI-powered energy assistant</p>
+      <h3><a href="https://github.com/AsobaCloud/ona-front-end">Ona Frontend</a></h3>
+      <p>React-based interface for energy management and AI assistant</p>
       <p><strong>Tech:</strong> React, Express.js, AWS Bedrock</p>
     </td>
   </tr>
@@ -177,9 +193,43 @@
 - Node.js 16+ and Python 3.9+
 - AWS CLI configured with appropriate credentials
 - GitHub access to AsobaCloud organization
-- Auth0 and Stripe accounts (for full functionality)
+- NVIDIA Jetson Orin Nano (for edge deployment)
 
-### Quick Start
+### Platform Deployment Options
+
+<table>
+  <tr>
+    <td width="33%">
+      <h4>☁️ Cloud SaaS</h4>
+      <p>Quick start with our hosted platform</p>
+      <ul>
+        <li>Sign up at app.asoba.co</li>
+        <li>Connect SCADA systems</li>
+        <li>Start monitoring immediately</li>
+      </ul>
+    </td>
+    <td width="33%">
+      <h4>🏢 On-Premise</h4>
+      <p>Deploy on your infrastructure</p>
+      <ul>
+        <li>Contact for licensing</li>
+        <li>Full data sovereignty</li>
+        <li>Custom integrations</li>
+      </ul>
+    </td>
+    <td width="33%">
+      <h4>🌐 Edge Node</h4>
+      <p>Solar-powered AI compute</p>
+      <ul>
+        <li>Hardware partnership</li>
+        <li>Turnkey deployment</li>
+        <li>Revenue sharing available</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+### Development Setup
 
 1. **Clone the repositories**
 ```bash
@@ -197,7 +247,7 @@ Set up the frontend
 cd ona-front-end
 npm install
 cp .env.example .env
-# Edit .env with your API endpoint and Auth0 config
+# Edit .env with your API endpoint
 npm run dev
 Access the application
 Frontend: http://localhost:3000
@@ -205,36 +255,27 @@ API: http://localhost:8000
 API Docs: http://localhost:8000/docs
 📋 Development Workflow
 Automated Test Criteria System
-Every new issue created in our repositories automatically receives comprehensive test criteria to ensure quality and completion verification. This system:
+Every new issue created in our repositories automatically receives comprehensive test criteria to ensure quality and completion verification.
 
-✅ Applies within 60 seconds of issue creation
-✅ Detects issue type (API, Frontend, ML, Infrastructure, Security)
-✅ Enforces CLAUDE.md compliance principles
-✅ Requires objective completion verification
-✅ Includes cross-region deployment validation
 Issue Management
 All development work is tracked through GitHub Issues and organized in the Ona Power Tools Platform Project Board.
 
-Development Standards
-Code Quality:
-
-All code must pass linting (ESLint for JS/TS, Black/Flake8 for Python)
-Minimum 80% test coverage for new features
-Peer review required for all PRs
-Documentation required for public APIs
 🌱 Our Impact
-At Asoba, we're accelerating the distributed energy transition by:
+Every query processed, every MW optimized, and every node deployed builds Africa's energy intelligence. While competitors extract data and profits offshore, we're building the foundation for continental energy independence—one distributed algorithm at a time.
 
-🤖 Making complex energy systems accessible through AI
-📊 Enabling smarter energy trading and grid management
-🔍 Providing instant insights on regulations and market dynamics
-⚡ Empowering virtual power plants and prosumer communities
-🌍 Supporting sustainable energy infrastructure worldwide
-📞 Connect With Us
-🌐 Website: asoba.co
+Key Metrics
+⚡ Solar Assets Under Management: Supporting 1MW to 500MW+ installations
+🏛️ Municipalities Served: Streamlining SSEG applications across Africa
+🖥️ Edge Nodes Deployed: Building sovereign compute infrastructure
+📊 Data Processed Locally: 100% African data stays in Africa
+🤝 Join the Revolution
+The data revolution starts here. Ready to own your energy future?
+
+📅 Schedule a Demo: Book a meeting
+💬 Discord Community: Join us
+📧 Email Support: support@asoba.co
 📚 Documentation: docs.asoba.co
-💼 LinkedIn: linkedin.com/company/asoba-co
-📧 Contact: support@asoba.co
-Building the AI infrastructure for tomorrow's energy grid
+Digital sovereignty through distributed AI infrastructure
+Building Africa's energy future, one algorithm at a time
 
 ```
