@@ -229,30 +229,6 @@
   </tr>
 </table>
 
-### Development Setup
-
-1. **Clone the repositories**
-```bash
-git clone https://github.com/AsobaCloud/api.git
-git clone https://github.com/AsobaCloud/ona-front-end.git
-Set up the backend
-cd api
-python -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
-pip install -r requirements.txt
-cp .env.example .env
-# Edit .env with your configuration
-python app.py
-Set up the frontend
-cd ona-front-end
-npm install
-cp .env.example .env
-# Edit .env with your API endpoint
-npm run dev
-Access the application
-Frontend: http://localhost:3000
-API: http://localhost:8000
-API Docs: http://localhost:8000/docs
 📋 Development Workflow
 Automated Test Criteria System
 Every new issue created in our repositories automatically receives comprehensive test criteria to ensure quality and completion verification.
