@@ -228,30 +228,40 @@
     </td>
   </tr>
 </table>
+## 📋 Development Workflow
 
-📋 Development Workflow
-Automated Test Criteria System
+### Automated Test Criteria System
+
 Every new issue created in our repositories automatically receives comprehensive test criteria to ensure quality and completion verification.
 
-Issue Management
-All development work is tracked through GitHub Issues and organized in the Ona Power Tools Platform Project Board.
+### Issue Management
 
-🌱 Our Impact
+All development work is tracked through GitHub Issues and organized in the [Ona Power Tools Platform Project Board](https://github.com/orgs/AsobaCloud/projects/2).
+
+## 🌱 Our Impact
+
 Every query processed, every MW optimized, and every node deployed builds Africa's energy intelligence. While competitors extract data and profits offshore, we're building the foundation for continental energy independence—one distributed algorithm at a time.
 
-Key Metrics
-⚡ Solar Assets Under Management: Supporting 1MW to 500MW+ installations
-🏛️ Municipalities Served: Streamlining SSEG applications across Africa
-🖥️ Edge Nodes Deployed: Building sovereign compute infrastructure
-📊 Data Processed Locally: 100% African data stays in Africa
-🤝 Join the Revolution
+### Key Metrics
+
+- ⚡ **Solar Assets Under Management**: Supporting 1MW to 500MW+ installations
+- 🏛️ **Municipalities Served**: Streamlining SSEG applications across Africa
+- 🖥️ **Edge Nodes Deployed**: Building sovereign compute infrastructure
+- 📊 **Data Processed Locally**: 100% African data stays in Africa
+
+## 🤝 Join the Revolution
+
 The data revolution starts here. Ready to own your energy future?
 
-📅 Schedule a Demo: Book a meeting
-💬 Discord Community: Join us
-📧 Email Support: support@asoba.co
-📚 Documentation: docs.asoba.co
-Digital sovereignty through distributed AI infrastructure
-Building Africa's energy future, one algorithm at a time
+- 📅 **Schedule a Demo**: [Book a meeting](https://calendar.google.com/calendar/appointments/schedules/AcZssZ3-n_SUGacXWO0GDVkR9J1LCNwoUEUPH_kTw-_yeDaVuFaMysg0rIiZLUy9cKeZlcziEYgFG8Kx?gv=true)
+- 💬 **Discord Community**: [Join us](https://discord.gg/nNV5evcr)
+- 📧 **Email Support**: [support@asoba.co](mailto:support@asoba.co)
+- 📚 **Documentation**: [docs.asoba.co](https://docs.asoba.co)
 
-```
+---
+
+<p align="center">
+  <strong>Digital sovereignty through distributed AI infrastructure</strong><br>
+  <em>Building Africa's energy future, one algorithm at a time</em>
+</p>
+
