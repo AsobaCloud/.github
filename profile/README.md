@@ -16,8 +16,8 @@
   </a>
 </p>
 
-<a href="https://github.com/AsobaCloud/sdk">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AsobaCloud&repo=sdk&theme=vue" alt="Asoba SDK" align="right" />
+<a href="https://github.com/AsobaCloud/platform-edge">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AsobaCloud&repo=platform-edge&theme=vue" alt="Infrastructure AI @ the Edge" align="right" />
 </a>
 
 - 🌍 &nbsp;Building **distributed AI infrastructure** for Africa's energy independence
