@@ -149,12 +149,6 @@
       </a>
       <br>NVIDIA
     </td>
-    <td align="center" width="96">
-      <a href="#asoba-tech" >
-        <img src="https://symbols.getvecta.com/stencil_25/5_dynamodb.1a1344e5be.svg" width="48" height="48" alt="DynamoDB" />
-      </a>
-      <br>DynamoDB
-    </td>
   </tr>
 </table>
 
