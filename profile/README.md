@@ -163,20 +163,20 @@
 <table>
   <tr>
     <td>
-      <h3><a href="https://github.com/AsobaCloud/api">Ona API</a></h3>
+      <h3><a href="https://github.com/AsobaCloud/platform">Ona Platform</a></h3>
       <p>Core energy forecasting and data management API with ML modeling</p>
       <p><strong>Tech:</strong> Python, AWS Lambda, SageMaker, DynamoDB</p>
     </td>
     <td>
-      <h3><a href="https://github.com/AsobaCloud/ona-front-end">Ona Frontend</a></h3>
-      <p>React-based interface for energy management and AI assistant</p>
-      <p><strong>Tech:</strong> React, Express.js, AWS Bedrock</p>
+      <h3><a href="https://github.com/AsobaCloud/platform-edge">Ona Edge Device Client</a></h3>
+      <p>Client app for deploying Ona Platform app on edge devices like Raspberry Pi</p>
+      <p><strong>Tech:</strong> Python, Lambda, Raspberry Pi, ARM</p>
     </td>
   </tr>
   <tr>
     <td>
-      <h3><a href="https://github.com/AsobaCloud/asobacode-cli">AsobaCode CLI</a></h3>
-      <p>MCP-based AI development system for infrastructure automation</p>
+      <h3><a href="https://github.com/AsobaCloud/terminal">Ona Terminal</a></h3>
+      <p>Terminal-based backend tool for energy asset operation and maintenance decision support</p>
       <p><strong>Tech:</strong> Python, Terraform, AWS, Custom LLM</p>
     </td>
     <td>
