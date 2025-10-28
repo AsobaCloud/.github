@@ -1,5 +1,5 @@
 <h1 align="left" id="asoba-title">🌍 We're Asoba</h1>
-<h3 align="left">AI Infrastructure for Africa's Energy Independence</h3>
+<h3 align="left">Building AI for Resilient Energy Infrastructure</h3>
 
 <p align="left">
   <a href="https://github.com/AsobaCloud">
