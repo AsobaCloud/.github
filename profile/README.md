@@ -16,10 +16,6 @@
   </a>
 </p>
 
-<a href="https://github.com/AsobaCloud/platform-edge">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AsobaCloud&repo=platform-edge&theme=vue" alt="Asoba Edge Platform" align="right" />
-</a>
-
 <p>
 This GitHub organization contains Asoba’s open-source code, tooling, and reference implementations.
 </p>
