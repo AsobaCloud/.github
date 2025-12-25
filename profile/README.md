@@ -130,18 +130,47 @@ This GitHub organization contains Asoba’s open-source code, tooling, and refer
 
 <h2 align="left">💻 Tech Stack</h2>
 
-<!-- Tech icons preserved exactly -->
 <table>
   <tr>
-    <td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48"/><br>Python</td>
-    <td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="48"/><br>React</td>
-    <td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48"/><br>JavaScript</td>
-    <td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="48"/><br>Node.js</td>
-    <td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="48"/><br>AWS</td>
-    <td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="48"/><br>Docker</td>
-    <td align="center" width="96"><img src="https://cdn.worldvectorlogo.com/logos/nvidia.svg" width="48"/><br>NVIDIA</td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" alt="Python" />
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="48" height="48" alt="React" />
+      <br>React
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js" />
+      <br>Node.js
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="48" height="48" alt="AWS" />
+      <br>AWS
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" />
+      <br>Docker
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.worldvectorlogo.com/logos/nvidia.svg" width="48" height="48" alt="NVIDIA" />
+      <br>NVIDIA
+    </td>
+    <td align="center" width="96">
+      <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="48" height="48" alt="Hugging Face" />
+      <br>Hugging Face
+    </td>
+    <td align="center" width="96">
+      <img src="https://railway.app/brand/logo-light.svg" width="48" height="48" alt="Railway" />
+      <br>Railway
+    </td>
   </tr>
 </table>
+
 
 ---
 
