@@ -84,11 +84,12 @@ This GitHub organization contains Asoba’s open-source code, tooling, and refer
   </tr>
   <tr>
     <td>
-      <h3><a href="https://github.com/AsobaCloud/terminal">Ona Terminal</a></h3>
-      <p>CLI-driven operations and decision support tooling</p>
-      <p><strong>Tech:</strong> Python, Terraform, AWS, Custom LLM</p>
-    </td>
-    <td>
+  <h3><a href="https://github.com/AsobaCloud/zorora">Zorora</a></h3>
+  <p>Experimental AI tooling and internal research platform</p>
+  <p><strong>Focus:</strong> Model experimentation, orchestration, and applied AI workflows</p>
+  </td>
+
+  <td>
       <h3><a href="https://github.com/AsobaCloud/sdk">Ona SDK</a></h3>
       <p>Client libraries for integrating with Asoba APIs</p>
       <p><strong>Languages:</strong> JavaScript, Python</p>
