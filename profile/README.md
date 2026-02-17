@@ -2,7 +2,8 @@
 
 <p align="left">
 
-    <img alt="LinkedIn" src="https://opendataschema.energy/includes/images/banner.png">
+
+    ![Alt text][https://opendataschema.energy/includes/images/banner.png]   
 
 </p>
 
