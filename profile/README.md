@@ -21,8 +21,6 @@ This GitHub organization contains Asoba’s open-source code, tooling, and refer
 
 ---
 
-<h2 align="left">🚀 Start Here</h2>
-
 <table>
   <tr>
     <td width="50%">
