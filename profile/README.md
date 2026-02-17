@@ -56,49 +56,6 @@ This GitHub organization contains Asoba’s open-source code, tooling, and refer
   <li>🛡️ On-premise, sovereign infrastructure to keep African data in Africa</li>
 </ul>
 
----
-
-<h2 align="left">🖼 Platform Overview</h2>
-
-<!-- Preserve screenshots exactly as-is -->
-<a href="https://app.asoba.co">
-  <img src="https://asoba.co/ona.png">
-</a>
-
----
-
-<h2 align="left">📌 Key Repositories</h2>
-
-<table>
-  <tr>
-    <td>
-      <h3><a href="https://github.com/AsobaCloud/platform">Ona Platform</a></h3>
-      <p>Core energy forecasting and data management APIs</p>
-      <p><strong>Tech:</strong> Python, AWS Lambda, SageMaker, DynamoDB</p>
-    </td>
-    <td>
-      <h3><a href="https://github.com/AsobaCloud/platform-edge">Ona Edge</a></h3>
-      <p>Edge deployment client for running Ona on local hardware</p>
-      <p><strong>Tech:</strong> Python, ARM, Raspberry Pi, NVIDIA Jetson</p>
-    </td>
-  </tr>
-  <tr>
-    <td>
-  <h3><a href="https://github.com/AsobaCloud/zorora">Zorora</a></h3>
-  <p>Experimental AI tooling and internal research platform</p>
-  <p><strong>Focus:</strong> Model experimentation, orchestration, and applied AI workflows</p>
-  </td>
-
-  <td>
-      <h3><a href="https://github.com/AsobaCloud/sdk">Ona SDK</a></h3>
-      <p>Client libraries for integrating with Asoba APIs</p>
-      <p><strong>Languages:</strong> JavaScript, Python</p>
-    </td>
-  </tr>
-</table>
-
----
-
 <h2 align="left">💡 How We Power Energy Independence</h2>
 
 <table>
