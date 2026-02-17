@@ -17,7 +17,7 @@ This GitHub organization contains Asoba’s open-source code, tooling, and refer
     <td width="50%">
       <h3>Developers</h3>
       <ul>
-        <li><strong>Developer documentation:</strong> <a href="https://code.asoba.co">code.asoba.co</a></li>
+        <li><strong>Developer documentation:</strong> <a href="https://code.asoba.co">code.asoba.co</a> & <a href="https://opendataschema.energy">ODSE</a></li>
         <li>APIs, SDKs, integration guides, and deployment reference</li>
         <li>See <code>quickstart</code> and <code>sdk</code> repos for examples</li>
       </ul>
