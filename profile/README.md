@@ -2,8 +2,8 @@
 
 <p align="left">
 
-
-    ![Alt text][https://opendataschema.energy/includes/images/banner.png]   
+    ![A sunset over the mountains]([https://example.com/sunset.jpg](https://opendataschema.energy/includes/images/banner.png]) 
+ 
 
 </p>
 
