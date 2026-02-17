@@ -2,7 +2,7 @@
 
 <p align="left">
 
-    ![A sunset over the mountains](https://opendataschema.energy/includes/images/banner.png)
+    ![A sunset over the mountains](https://asoba.co/images/banner.png)
  
 
 </p>
