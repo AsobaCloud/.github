@@ -1,18 +1,9 @@
 <h2 align="left">The Intelligence Layer for Resilient Energy Systems</h2>
 
 <p align="left">
-  <a href="https://github.com/AsobaCloud">
-    <img src="https://img.shields.io/github/stars/AsobaCloud?style=for-the-badge&color=green" alt="Asoba GitHub Stars"/>
-  </a>
-  <a href="https://github.com/orgs/AsobaCloud/repositories">
-    <img src="https://img.shields.io/badge/Repositories-View%20All-blue?style=for-the-badge" alt="Asoba Repositories"/>
-  </a>
-  <a href="https://asoba.co">
-    <img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fasoba.co&style=for-the-badge">
-  </a>
-  <a href="https://www.linkedin.com/company/asoba-co/">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
-  </a>
+
+    <img alt="LinkedIn" src="https://opendataschema.energy/includes/images/banner.png">
+
 </p>
 
 <p>
