@@ -15,7 +15,7 @@ This GitHub organization contains Asoba’s open-source code, tooling, and refer
 <table>
   <tr>
     <td width="50%">
-      <h3>👩‍💻 Developers</h3>
+      <h3>Developers</h3>
       <ul>
         <li><strong>Developer documentation:</strong> <a href="https://code.asoba.co">code.asoba.co</a></li>
         <li>APIs, SDKs, integration guides, and deployment reference</li>
@@ -34,7 +34,7 @@ This GitHub organization contains Asoba’s open-source code, tooling, and refer
 
 ---
 
-<h2 align="left">💻 Tech Stack</h2>
+<h2 align="left">Tech Stack</h2>
 
 <table>
   <tr>
@@ -80,12 +80,12 @@ This GitHub organization contains Asoba’s open-source code, tooling, and refer
 
 ---
 
-<h2 align="left">🤝 Contributing & Community</h2>
+<h2 align="left">Contributing & Community</h2>
 
 <ul>
-  <li>🐞 Bugs and feature requests: open issues in the relevant repo</li>
-  <li>📖 Documentation improvements: PRs welcome</li>
-  <li>💬 Community discussion: <a href="https://discord.gg/nNV5evcr">Discord</a></li>
+  <li>Bugs and feature requests: open issues in the relevant repo</li>
+  <li>Documentation improvements: PRs welcome</li>
+  <li>Community discussion: <a href="https://discord.gg/nNV5evcr">Discord</a></li>
 </ul>
 
 ---
@@ -93,9 +93,9 @@ This GitHub organization contains Asoba’s open-source code, tooling, and refer
 <h2 align="left">📬 Contact</h2>
 
 <ul>
-  <li>📅 Schedule a demo: <a href="https://calendar.google.com/calendar/appointments/schedules/AcZssZ3-n_SUGacXWO0GDVkR9J1LCNwoUEUPH_kTw-_yeDaVuFaMysg0rIiZLUy9cKeZlcziEYgFG8Kx?gv=true">Book a meeting</a></li>
-  <li>📧 General inquiries: <a href="mailto:support@asoba.co">support@asoba.co</a></li>
-  <li>📚 Documentation: <a href="https://docs.asoba.co">docs.asoba.co</a></li>
+  <li>Schedule a demo: <a href="https://calendar.google.com/calendar/appointments/schedules/AcZssZ3-n_SUGacXWO0GDVkR9J1LCNwoUEUPH_kTw-_yeDaVuFaMysg0rIiZLUy9cKeZlcziEYgFG8Kx?gv=true">Book a meeting</a></li>
+  <li>General inquiries: <a href="mailto:support@asoba.co">support@asoba.co</a></li>
+  <li>Documentation: <a href="https://docs.asoba.co">docs.asoba.co</a></li>
 </ul>
 
 ---
