@@ -46,42 +46,6 @@ This GitHub organization contains Asoba’s open-source code, tooling, and refer
 
 ---
 
-<h2 align="left">📦 What We Build</h2>
-
-<ul>
-  <li>🌍 Distributed AI infrastructure for Africa’s energy independence</li>
-  <li>☀️ Ona Energy Management Platform for solar asset optimization</li>
-  <li>🤖 Energy Analyst LLM for municipal policy intelligence</li>
-  <li>🔌 Ona Edge & Agrivoltaics – solar-powered AI compute nodes</li>
-  <li>🛡️ On-premise, sovereign infrastructure to keep African data in Africa</li>
-</ul>
-
-<h2 align="left">💡 How We Power Energy Independence</h2>
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3>🔧 Transform Challenges</h3>
-      <ul>
-        <li>Unreliable grids → distributed resilience</li>
-        <li>Municipal capacity gaps → AI-assisted operations</li>
-        <li>Foreign dependency → local digital sovereignty</li>
-      </ul>
-    </td>
-    <td width="50%">
-      <h3>📊 Deliver Results</h3>
-      <ul>
-        <li>Predict failures before they occur</li>
-        <li>Maximize solar output in real time</li>
-        <li>Automate SSEG application processing</li>
-        <li>Keep sensitive data on African soil</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
----
-
 <h2 align="left">💻 Tech Stack</h2>
 
 <table>
