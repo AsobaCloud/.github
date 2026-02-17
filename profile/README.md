@@ -90,7 +90,7 @@ This GitHub organization contains Asoba’s open-source code, tooling, and refer
 
 ---
 
-<h2 align="left">📬 Contact</h2>
+<h2 align="left">Contact</h2>
 
 <ul>
   <li>Schedule a demo: <a href="https://calendar.google.com/calendar/appointments/schedules/AcZssZ3-n_SUGacXWO0GDVkR9J1LCNwoUEUPH_kTw-_yeDaVuFaMysg0rIiZLUy9cKeZlcziEYgFG8Kx?gv=true">Book a meeting</a></li>
