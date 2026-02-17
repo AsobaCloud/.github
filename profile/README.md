@@ -2,8 +2,7 @@
 
 <p align="left">
 
-    ![Banner](https://asoba.co/images/banner.png)
- 
+<img src="https://asoba.co/images/banner.png">
 
 </p>
 
