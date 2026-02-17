@@ -1,5 +1,5 @@
 <h1 align="left" id="asoba-title">🌍 Asoba</h1>
-<h3 align="left">AI Infrastructure for Resilient Energy Systems</h3>
+<h3 align="left">The Intelligence Layer for Resilient Energy Systems</h3>
 
 <p align="left">
   <a href="https://github.com/AsobaCloud">
