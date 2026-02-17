@@ -2,7 +2,7 @@
 
 <p align="left">
 
-    ![A sunset over the mountains](https://asoba.co/images/banner.png)
+    ![Banner](https://asoba.co/images/banner.png)
  
 
 </p>
