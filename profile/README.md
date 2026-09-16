@@ -2,7 +2,6 @@
 
 <p align="left">
 
-<img src="https://asoba.co/images/banner.png">
 
 </p>
 
